@@ -1,4 +1,4 @@
-Ford GPS Navigation Update: A Complete Overview
+How to Update Ford GPS Navigation? A Simple Guide 
 ====================================================
 
 .. toctree::
