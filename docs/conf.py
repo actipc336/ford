@@ -1,5 +1,5 @@
 project = 'Ford GPS Navigation Update'
-author = 'Your Name'
+author = 'fordgpsupdate'
 release = '1.0'
 
 extensions = []
